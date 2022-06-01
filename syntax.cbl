@@ -6,7 +6,7 @@
       ******************************************************************
        IDENTIFICATION DIVISION.
       *-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
-       PROGRAM-ID. LEXICAL.
+       PROGRAM-ID. SYNTAX.
        ENVIRONMENT DIVISION.
       *-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
        CONFIGURATION SECTION.
@@ -36,4 +36,4 @@
         MOVE 0 TO PA-RETURN-CODE
         STOP RUN.
       ** add other procedures here
-       END PROGRAM LEXICAL.
+       END PROGRAM SYNTAX.
